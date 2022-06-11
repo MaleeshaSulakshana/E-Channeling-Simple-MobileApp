@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1091897215015",
+    "firebase_url": "https://e-channelling-d68ae-default-rtdb.firebaseio.com",
+    "project_id": "e-channelling-d68ae",
+    "storage_bucket": "e-channelling-d68ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091897215015:android:d9d1737150e19943a76602",
+        "android_client_info": {
+          "package_name": "com.example.e_channelling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091897215015-k17g87fv8fscioef46e7vdoki3au7mto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEl7_ejNLo2qrLIsPs503q0rDgWZBvtgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091897215015-k17g87fv8fscioef46e7vdoki3au7mto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
